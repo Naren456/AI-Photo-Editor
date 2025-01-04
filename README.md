@@ -15,5 +15,4 @@ To run this project locally on your machine, follow these steps:
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/Naren456/Photo-Editor.git
-cd Photo-Editor
+
